@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009896277612",
+    "project_id": "unicesba-84d41",
+    "storage_bucket": "unicesba-84d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009896277612:android:7fe4d6cf390e9698a13a49",
+        "android_client_info": {
+          "package_name": "crowsystems.com.mx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQXP2ClejxCA6XMVkYTyAkcGeo1FNmtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
